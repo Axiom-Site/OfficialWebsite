@@ -2,21 +2,17 @@
 
 
 .rw-wrapper{
-	width: 80%;
+	width: 100%;
 	position: relative;
 	margin: 110px auto 0 auto;
-	font-family: 'Imprima', sans-serif;
 	padding: 10px;
 }
 .rw-sentence{
 	margin: 0;
 	text-align: left;
-	text-shadow: 1px 1px 1px rgba(255,255,255,0.8);
 }
 .rw-sentence span{
-	color: #444;
-	font-size: 200%;
-	font-weight: normal;
+	font-weight:500;
 }
 .rw-words{
 	display: inline;
@@ -26,7 +22,6 @@
 	position: absolute;
 	opacity: 0;
 	overflow: hidden;
-	color: #6b969d;
 	-webkit-animation: rotateWord 18s linear infinite 0s;
 	-moz-animation: rotateWord 18s linear infinite 0s;
 	-o-animation: rotateWord 18s linear infinite 0s;
@@ -39,7 +34,6 @@
 	-o-animation-delay: 3s; 
 	-ms-animation-delay: 3s; 
 	animation-delay: 3s; 
-	color: #6b889d;
 }
 .rw-words-1 span:nth-child(3) { 
     -webkit-animation-delay: 6s; 
@@ -47,7 +41,6 @@
 	-o-animation-delay: 6s; 
 	-ms-animation-delay: 6s; 
 	animation-delay: 6s; 
-	color: #6b739d;	
 }
 .rw-words-1 span:nth-child(4) { 
     -webkit-animation-delay: 9s;
@@ -55,7 +48,6 @@
 	-o-animation-delay: 9s; 
 	-ms-animation-delay: 9s; 
 	animation-delay: 9s; 
-	color: #7a6b9d;
 }
 .rw-words-1 span:nth-child(5) { 
     -webkit-animation-delay: 12s; 
@@ -63,7 +55,6 @@
 	-o-animation-delay: 12s; 
 	-ms-animation-delay: 12s; 
 	animation-delay: 12s; 
-	color: #8d6b9d;
 }
 .rw-words-1 span:nth-child(6) { 
     -webkit-animation-delay: 15s;
@@ -71,7 +62,6 @@
 	-o-animation-delay: 15s; 
 	-ms-animation-delay: 15s; 
 	animation-delay: 15s; 
-	color: #9b6b9d;
 }
 @-webkit-keyframes rotateWord {
     0% { opacity: 0; }
