@@ -58,6 +58,36 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="font-awesome\fonts\fontawesome-webfont.eot" />
+    <Content Include="font-awesome\fonts\fontawesome-webfont.ttf" />
+    <Content Include="font-awesome\fonts\fontawesome-webfont.woff" />
+    <Content Include="font-awesome\fonts\FontAwesome.otf" />
+    <Content Include="font-awesome\less\bordered-pulled.less" />
+    <Content Include="font-awesome\less\core.less" />
+    <Content Include="font-awesome\less\fixed-width.less" />
+    <Content Include="font-awesome\less\font-awesome.less" />
+    <Content Include="font-awesome\less\icons.less" />
+    <Content Include="font-awesome\less\larger.less" />
+    <Content Include="font-awesome\less\list.less" />
+    <Content Include="font-awesome\less\mixins.less" />
+    <Content Include="font-awesome\less\path.less" />
+    <Content Include="font-awesome\less\rotated-flipped.less" />
+    <Content Include="font-awesome\less\spinning.less" />
+    <Content Include="font-awesome\less\stacked.less" />
+    <Content Include="font-awesome\less\variables.less" />
+    <Content Include="font-awesome\scss\font-awesome.scss" />
+    <Content Include="font-awesome\scss\_bordered-pulled.scss" />
+    <Content Include="font-awesome\scss\_core.scss" />
+    <Content Include="font-awesome\scss\_fixed-width.scss" />
+    <Content Include="font-awesome\scss\_icons.scss" />
+    <Content Include="font-awesome\scss\_larger.scss" />
+    <Content Include="font-awesome\scss\_list.scss" />
+    <Content Include="font-awesome\scss\_mixins.scss" />
+    <Content Include="font-awesome\scss\_path.scss" />
+    <Content Include="font-awesome\scss\_rotated-flipped.scss" />
+    <Content Include="font-awesome\scss\_spinning.scss" />
+    <Content Include="font-awesome\scss\_stacked.scss" />
+    <Content Include="font-awesome\scss\_variables.scss" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -66,7 +96,47 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="css\animations.css" />
+    <Content Include="css\bootstrap.css" />
+    <Content Include="css\bootstrap.min.css" />
+    <Content Include="css\IntroStyle.css" />
+    <Content Include="css\nivo-lightbox-theme\default\close%402x.png" />
+    <Content Include="css\nivo-lightbox-theme\default\close.png" />
+    <Content Include="css\nivo-lightbox-theme\default\default.css" />
+    <Content Include="css\nivo-lightbox-theme\default\loading%402x.gif" />
+    <Content Include="css\nivo-lightbox-theme\default\loading.gif" />
+    <Content Include="css\nivo-lightbox-theme\default\next%402x.png" />
+    <Content Include="css\nivo-lightbox-theme\default\next.png" />
+    <Content Include="css\nivo-lightbox-theme\default\prev%402x.png" />
+    <Content Include="css\nivo-lightbox-theme\default\prev.png" />
+    <Content Include="css\nivo-lightbox.css" />
+    <Content Include="css\style.css" />
+    <Content Include="font-awesome\css\font-awesome.css" />
+    <Content Include="font-awesome\css\font-awesome.min.css" />
+    <Content Include="font-awesome\fonts\fontawesome-webfont.svg" />
+    <Content Include="img\bullet.png" />
+    <Content Include="img\cbp-sprite.png" />
+    <Content Include="img\hero-bg.jpg" />
+    <Content Include="img\works\1.jpg" />
+    <Content Include="img\works\2.jpg" />
+    <Content Include="img\works\3.jpg" />
+    <Content Include="img\works\4.jpg" />
+    <Content Include="img\works\5.jpg" />
+    <Content Include="img\works\6.jpg" />
+    <Content Include="img\works\7.jpg" />
+    <Content Include="img\works\8.jpg" />
     <Content Include="index.html" />
+    <Content Include="js\bootstrap.min.js" />
+    <Content Include="js\css3-animate-it.js" />
+    <Content Include="js\custom.js" />
+    <Content Include="js\IntroJ.js" />
+    <Content Include="js\jquery.appear.js" />
+    <Content Include="js\jquery.easing.min.js" />
+    <Content Include="js\jquery.min.js" />
+    <Content Include="js\jquery.scrollTo.js" />
+    <Content Include="js\jquery.sticky.js" />
+    <Content Include="js\nivo-lightbox.min.js" />
+    <Content Include="js\stellar.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -74,10 +144,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="color\" />
-    <Folder Include="css\" />
-    <Folder Include="font-awesome\" />
-    <Folder Include="img\" />
-    <Folder Include="js\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
