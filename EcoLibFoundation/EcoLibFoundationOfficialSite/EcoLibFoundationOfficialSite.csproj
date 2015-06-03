@@ -136,6 +136,7 @@
     <Content Include="js\jquery.scrollTo.js" />
     <Content Include="js\jquery.sticky.js" />
     <Content Include="js\nivo-lightbox.min.js" />
+    <Content Include="js\ripple.js" />
     <Content Include="js\stellar.js" />
     <Content Include="Web.config" />
   </ItemGroup>
