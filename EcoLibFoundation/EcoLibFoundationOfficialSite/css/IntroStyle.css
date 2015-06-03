@@ -4,11 +4,11 @@
 .rw-wrapper{
 	width: 100%;
 	position: relative;
-	margin: 110px auto 0 auto;
-	padding: 10px;
+
 }
 .rw-sentence{
 	margin: 0;
+    margin-top:20%;
 	text-align: left;
 }
 .rw-sentence span{
