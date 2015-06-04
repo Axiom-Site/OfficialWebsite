@@ -154,11 +154,12 @@ blockquote strong {
 }
 .site-logo a.brand {
 	color: #111;
-	text-transform: uppercase;
 	font-size: 32px;
 	font-family: 'Roboto', sans-serif;
 	font-weight: 900;
+    color:#076323;
 	margin-top: 20px;
+
 }
 
 

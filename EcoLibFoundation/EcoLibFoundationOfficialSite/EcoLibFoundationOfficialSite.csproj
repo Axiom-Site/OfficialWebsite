@@ -116,6 +116,7 @@
     <Content Include="font-awesome\fonts\fontawesome-webfont.svg" />
     <Content Include="img\bullet.png" />
     <Content Include="img\cbp-sprite.png" />
+    <Content Include="img\CSR.png" />
     <Content Include="img\hero-bg.jpg" />
     <Content Include="img\works\1.jpg" />
     <Content Include="img\works\2.jpg" />
