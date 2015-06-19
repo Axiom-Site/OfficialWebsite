@@ -118,11 +118,11 @@
     <Content Include="img\cbp-sprite.png" />
     <Content Include="img\CSR.png" />
     <Content Include="img\hero-bg.jpg" />
-    <Content Include="img\works\1.jpg" />
-    <Content Include="img\works\2.jpg" />
-    <Content Include="img\works\3.jpg" />
-    <Content Include="img\works\4.jpg" />
-    <Content Include="img\works\5.jpg" />
+    <Content Include="img\works\1.png" />
+    <Content Include="img\works\2.png" />
+    <Content Include="img\works\3.png" />
+    <Content Include="img\works\4.png" />
+    <Content Include="img\works\5.png" />
     <Content Include="img\works\6.jpg" />
     <Content Include="img\works\7.jpg" />
     <Content Include="img\works\8.jpg" />

@@ -332,6 +332,7 @@ hr.bold {
 	display:block;
     position:relative;
     z-index:120;
+    min-height:850px;
 }
 
 .inner-section {
