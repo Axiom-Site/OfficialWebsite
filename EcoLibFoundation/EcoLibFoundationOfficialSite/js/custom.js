@@ -1,6 +1,12 @@
 /*global jQuery:false */
 (function ($) {
 
+    $('a.multiLink').click(function (e) {
+        e.preventDefault();
+        window.open('http://dlf5.in/high5/from-squalor-to-school-giving-the-gift-of-education/#comment-363');
+        window.open('http://blog.whatsupgurgaon.in/ecolib-foundation-ngo-radiant-kids-gurgaon/');
+        window.open('http://www.iamin.in/en/gurgaon/news/gurgaons-radiant-school-spreading-light-literacy-among-child-labourers-50287');
+    });
 
 	$(window).load(function(){
       $("#navigation").sticky({ topSpacing: 0 });
