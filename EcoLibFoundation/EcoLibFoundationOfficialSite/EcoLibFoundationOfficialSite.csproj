@@ -16,9 +16,9 @@
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <UseIISExpress>true</UseIISExpress>
     <IISExpressSSLPort />
-    <IISExpressAnonymousAuthentication />
-    <IISExpressWindowsAuthentication />
-    <IISExpressUseClassicPipelineMode />
+    <IISExpressAnonymousAuthentication>enabled</IISExpressAnonymousAuthentication>
+    <IISExpressWindowsAuthentication>enabled</IISExpressWindowsAuthentication>
+    <IISExpressUseClassicPipelineMode>false</IISExpressUseClassicPipelineMode>
     <UseGlobalApplicationHostFile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
@@ -88,6 +88,10 @@
     <Content Include="font-awesome\scss\_spinning.scss" />
     <Content Include="font-awesome\scss\_stacked.scss" />
     <Content Include="font-awesome\scss\_variables.scss" />
+    <None Include="Properties\PublishProfiles\Ecolib.pubxml" />
+    <None Include="Properties\PublishProfiles\ecolibfoundation.com - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\ecolibFTP.pubxml" />
+    <None Include="Properties\PublishProfiles\ecolibOfline.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -117,6 +121,7 @@
     <Content Include="img\bullet.png" />
     <Content Include="img\cbp-sprite.png" />
     <Content Include="img\CSR.png" />
+    <Content Include="img\logo.jpg" />
     <Content Include="img\hero-bg.jpg" />
     <Content Include="img\Wi-Fi.gif" />
     <Content Include="img\works\1.png" />
